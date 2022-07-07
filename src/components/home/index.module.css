@@ -17,11 +17,9 @@
 }
 
 .tierLogo {
-  width: 40vw;
   margin: 0 10vw 0 10vw;
   height: 40vh;
   display: flex;
-  padding-left: 41%;
   flex-direction: column;
   align-items: center;
   justify-content: center;
