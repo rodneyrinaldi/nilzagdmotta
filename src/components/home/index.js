@@ -43,8 +43,8 @@ export default function Home() {
             src="/logo.png"
             alt="logo"
             layout="intrinsic"
-            width={995}
-            height={884}
+            width={150}
+            height={300}
           />
         </session>
 
