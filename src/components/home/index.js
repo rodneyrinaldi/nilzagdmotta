@@ -42,7 +42,7 @@ export default function Home() {
           <Image
             src="/logo.png"
             alt="logo"
-            layout="intrinsic"
+            layout="fixed"
             width={150}
             height={300}
           />
